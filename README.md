@@ -26,3 +26,7 @@ Here are the various commands available in the project:
 - `npm run start:dev`: Starts the server in watch mode with continuous TypeScript transpilation. Uses the concurrently package to run both the server and transpilation in parallel.
 - `npm run build`: Transpiles the TypeScript code to JavaScript using esbuild. The generated files are placed in the build folder.
 - `npm run watch`: Performs the same task as build, but in watch mode. Automatically recompiles the files on changes.
+- `npm run lint`: Run eslint and prettier.
+- `npm run lint:fix`: Run eslint and prettier with fix.
+- `npm run format`: Run prettier.
+- `npm run format:fix`: Run prettier with fix.
