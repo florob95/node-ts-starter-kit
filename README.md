@@ -12,6 +12,7 @@ This project is a starter kit for Node.js applications written in TypeScript. It
 ## Installation
 
 To install the project dependencies, run:
+
 ```bash
 npm install
 ```
