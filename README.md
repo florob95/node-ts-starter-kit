@@ -30,3 +30,6 @@ Here are the various commands available in the project:
 - `npm run lint:fix`: Run eslint and prettier with fix.
 - `npm run format`: Run prettier.
 - `npm run format:fix`: Run prettier with fix.
+- `npm run test`: Run test.
+- `npm run test:watch`: Run test in watch mode.
+- `npm run test:coverage`: Run test with coverage.
